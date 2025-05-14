@@ -2,7 +2,6 @@ import requests
 from tinydb import TinyDB
 from datetime import datetime
 import time
-from pprint import pprint
 
 
 
