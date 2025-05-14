@@ -1,0 +1,1 @@
+## Pipeline ETL Python - Extração de API Bitcoin com SQL Alchemy, PostgreSQL, Agente AI e Streamlit
