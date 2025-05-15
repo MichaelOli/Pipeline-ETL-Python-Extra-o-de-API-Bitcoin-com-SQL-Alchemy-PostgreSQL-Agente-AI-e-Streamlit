@@ -17,5 +17,5 @@ agent = Agent(
     markdown=True                   # Format responses in markdown
 )
 
-# Prompt the agent to fetch a breaking news story from New York
+# Prompt the agent
 agent.tools.print_response("O que é o atacadão dia a dia?", stream=True)
